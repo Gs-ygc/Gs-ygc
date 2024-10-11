@@ -8,9 +8,9 @@
 
 - 🤖 I’m currently a SRE working in Beijing, China.
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
-- ✍️ [MyBlog](https://chegva.com)
+- ✍️ [MyBlog](https://gs2ygc.online)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:Gs-ygc@foxmail.com)
+- 📫 Reach me: [email](mailto:gs2ygc@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Gs-ygc?label=follow%20me&style=social)](https://github.com/Gs-ygc/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
