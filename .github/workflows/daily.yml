@@ -26,8 +26,8 @@ jobs:
 
       - name: git setting
         run: |
-          git config --global user.email "anzhihe@foxmail.com"
-          git config --global user.name "anzhihe"
+          git config --global user.email "gs2ygc@gmail.com"
+          git config --global user.name "Gs-ygc"
           
       - name: update
         run: |
