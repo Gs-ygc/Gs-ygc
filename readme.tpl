@@ -10,14 +10,14 @@
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
+- 📫 Reach me: [email](mailto:Gs-ygc@foxmail.com)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/Gs-ygc?label=follow%20me&style=social)](https://github.com/Gs-ygc/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Stay hungry，Stay foolish.」** ❤️
 </td>
 <td valign="center"  width="100%" height="100%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
+<img src="https://github.com/Gs-ygc/Gs-ygc/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
 </td>
 </tr>
 </table>
@@ -26,7 +26,7 @@
 
 🏆 **my github stats:**
 
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=Gs-ygc)|![Gs-ygc's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-ygc&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
 
@@ -35,7 +35,7 @@
 <td valign="top"  width="50%">
 
 #### 🐍 contributions
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Gs-ygc/Gs-ygc/output/github-contribution-grid-snake.svg)
 </td>
 <td valign="top"  width="50%">
 
