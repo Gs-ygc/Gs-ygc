@@ -12,7 +12,7 @@ import (
 
 func main() {
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://gs2ygc.online/")
+	feed, err := fp.ParseURL("https://gs2ygc.online/rss2.xml")
 	if err != nil {
 		panic(err)
 	}
