@@ -40,13 +40,7 @@
 <td valign="top"  width="50%">
 
 #### 👉 [Recent Blog](http://gs2ygc.online)
-
-
-- [《论法的精神》《论美国的民主》和《常识》 - 2024-10-20](https://chegva.com/6205.html)
-- [Mac清歌五笔输入法 - 2024-09-29](https://chegva.com/6199.html)
-- [K8s 亲和性和反亲和性 - 2024-09-24](https://chegva.com/6195.html)
-- [ITSS运维服务能力成熟度等级 - 2024-09-07](https://chegva.com/6158.html)
-- [ethtool用法及命令详解 - 2024-08-27](https://chegva.com/6191.html)
+- test
 </td>
 </tr>
 </table>
