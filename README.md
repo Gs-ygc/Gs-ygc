@@ -40,7 +40,13 @@
 <td valign="top"  width="50%">
 
 #### 👉 [Recent Blog](http://gs2ygc.online)
-- test
+
+
+- [Markdown学习 - 2024-07-23](http://gs2ygc.online/2024/07/23/Markdown%E5%AD%A6%E4%B9%A0/)
+- [Linux - 2024-07-23](http://gs2ygc.online/2024/07/23/Linux/)
+- [C/C++ Clang开发环境 - 2024-05-02](http://gs2ygc.online/2024/05/02/Ubuntu-C-C-Clang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
+- [Linux安装的思考 - 2024-04-29](http://gs2ygc.online/2024/04/29/Linux%E5%AE%89%E8%A3%85%E7%9A%84%E6%80%9D%E8%80%83/)
+- [谈谈提问 - 2024-04-29](http://gs2ygc.online/2024/04/29/%E8%B0%88%E8%B0%88%E6%8F%90%E9%97%AE/)
 </td>
 </tr>
 </table>
