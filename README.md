@@ -6,7 +6,7 @@
 <tr>
 <td valign="top"  width="50%">
 
-- 🤖 I am currently a AI processor architecture at BOSC(Beijing Institute of Open Source Chip) in Beijing, China
+- 🤖 I am currently a AI processor architecture intern at BOSC(Beijing Institute of Open Source Chip) in Beijing, China
 - 👨‍💻 I’m currently learning Computer Vision, Architecture, Artificial Intelligence, Infrastructure，etc...
 - ✍️ [MyBlog](https://gs2ygc.online)
 - 💬 Ask me about Anything you want~
