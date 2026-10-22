@@ -6,9 +6,9 @@
 <tr>
 <td valign="top"  width="50%">
 
-- 🤖 I am currently a AI processor architecture intern at BOSC(Beijing Institute of Open Source Chip) in Beijing, China
+- 🤖 I’m currently working on AI processor architecture at BOSC (Beijing Institute of Open Source Chip) in Beijing, China
+- 🌱 I’m interested in AI-era infrastructure and human-machine collaboration solutions
 - 👨‍💻 I’m currently learning Computer Vision, Architecture, Artificial Intelligence, Infrastructure，etc...
-- ✍️ [MyBlog](https://gs2ygc.online)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:gs2ygc@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Gs-ygc?label=follow%20me&style=social)](https://github.com/Gs-ygc/)
@@ -30,23 +30,6 @@
 |-|-|
 
 
-<table>
-<tr>
-<td valign="top"  width="50%">
-
 #### 🐍 contributions
+
 ![](https://raw.githubusercontent.com/Gs-ygc/Gs-ygc/output/github-contribution-grid-snake.svg)
-</td>
-<td valign="top"  width="50%">
-
-#### 👉 [Recent Blog](http://gs2ygc.online)
-
-
-- [Markdown学习 - 2024-07-23](http://gs2ygc.online/2024/07/23/Markdown%E5%AD%A6%E4%B9%A0/)
-- [Linux - 2024-07-23](http://gs2ygc.online/2024/07/23/Linux/)
-- [C/C++ Clang开发环境 - 2024-05-02](http://gs2ygc.online/2024/05/02/Ubuntu-C-C-Clang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
-- [Linux安装的思考 - 2024-04-29](http://gs2ygc.online/2024/04/29/Linux%E5%AE%89%E8%A3%85%E7%9A%84%E6%80%9D%E8%80%83/)
-- [谈谈提问 - 2024-04-29](http://gs2ygc.online/2024/04/29/%E8%B0%88%E8%B0%88%E6%8F%90%E9%97%AE/)
-</td>
-</tr>
-</table>

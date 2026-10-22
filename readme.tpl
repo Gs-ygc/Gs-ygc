@@ -6,9 +6,9 @@
 <tr>
 <td valign="top"  width="50%">
 
-- 🤖 I am currently a AI processor architecture intern at BOSC(Beijing Institute of Open Source Chip) in Beijing, China
+- 🤖 I’m currently working on AI processor architecture at BOSC (Beijing Institute of Open Source Chip) in Beijing, China
+- 🌱 I’m interested in AI-era infrastructure and human-machine collaboration solutions
 - 👨‍💻 I’m currently learning Computer Vision, Architecture, Artificial Intelligence, Infrastructure，etc...
-- ✍️ [MyBlog](https://gs2ygc.online)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:gs2ygc@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Gs-ygc?label=follow%20me&style=social)](https://github.com/Gs-ygc/)
@@ -30,20 +30,6 @@
 |-|-|
 
 
-<table>
-<tr>
-<td valign="top"  width="50%">
-
 #### 🐍 contributions
+
 ![](https://raw.githubusercontent.com/Gs-ygc/Gs-ygc/output/github-contribution-grid-snake.svg)
-</td>
-<td valign="top"  width="50%">
-
-#### 👉 [Recent Blog](http://gs2ygc.online)
-
-{{ range $index, $item := $.Articles }}
-- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
-{{- end}}
-</td>
-</tr>
-</table>
