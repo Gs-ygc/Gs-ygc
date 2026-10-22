@@ -4,9 +4,9 @@
 <tr>
 <td valign="top"  width="50%">
 
-- 🤖 I’m currently working on AI processor architecture at BOSC (Beijing Institute of Open Source Chip) in Beijing, China
+- 🤖 I’m currently working in the XiangShan AI processor group at BOSC (Beijing Institute of Open Source Chip) in Beijing, China
 - 🌱 I’m interested in AI-era infrastructure and human-machine collaboration solutions
-- 👨‍💻 I’m currently learning Computer Vision, Architecture, Artificial Intelligence, Infrastructure，etc...
+- 🔬 My areas of high-confidence experience: Computer Vision, LLM, Embodied AI, AI processors, Agents, Infrastructure
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:gs2ygc@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Gs-ygc?label=follow%20me&style=social)](https://github.com/Gs-ygc/)
