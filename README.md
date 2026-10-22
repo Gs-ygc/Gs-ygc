@@ -22,9 +22,16 @@
 
 <hr/>
 
-🏆 **我的 GitHub 数据：**
+#### 🏛️ 开源贡献
 
-|![](https://github-readme-stats.vercel.app/api?username=Gs-ygc)|![Gs-ygc's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-ygc&layout=compact&hide_border=true&langs_count=10)|
+- **[OpenXiangShan](https://github.com/OpenXiangShan)**（香山 RISC-V 高性能处理器）：[nemu_board](https://github.com/OpenXiangShan/nemu_board) 设备树生成、[CUTE](https://github.com/OpenXiangShan/CUTE) CML 矩阵布局、[LibCheckpointAlpha](https://github.com/OpenXiangShan/LibCheckpointAlpha) CSR 支持、[difftest](https://github.com/OpenXiangShan/difftest) Darwin arm64 运行时
+- **[OurCompArchGroup](https://github.com/OurCompArchGroup)**（XSAI 矩阵扩展）：[nexus-am-ame](https://github.com/OurCompArchGroup/nexus-am-ame) AME 测试用例与 GEMM tile 适配、xsai-benchmark（私有）bare-metal 数学库与 attention 算子、xsai-blas（私有）RISC-V benchmark layer
+
+<hr/>
+
+🏆 **我的 GitHub 数据：（以下卡片仅统计公开数据，私有仓库不计入）**
+
+|![](https://github-readme-stats.vercel.app/api?username=Gs-ygc)|![Gs-ygc's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-ygc&layout=compact&hide_border=true&langs_count=8&exclude_repo=kernel_oneplus_sm8550)|
 |-|-|
 
 
